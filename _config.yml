@@ -1,0 +1,10 @@
+title: 'Jakub Marek Cebula'
+logo: /assets/img/headshot_circle.png
+description:
+  Jakub Marek Cebula's Portfolio Website
+  <a href="https://www.linkedin.com/in/jakub-marek-cebula/">View My LinkedIn Profile</a> 
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+github.is_project_page: false
